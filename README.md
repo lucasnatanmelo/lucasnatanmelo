@@ -10,7 +10,7 @@
 
 Front-End developer focused in ReactJS. 
 <br/>
-I have personal experience with projects using JavaScript, Typescript, NodeJS and ReactJS. I'm a student at JStack and B7Web, where I'm learning and practing on the most modern technologies of web and mobile development, allied with my self taught knowledge.
+I have personal experience with projects using JavaScript, Typescript, NodeJS and ReactJS. Student at JStack and B7Web, where I'm learning and practing on the most modern technologies of web and mobile development, allied with my self taught knowledge.
 
 
 ## 🛠 &nbsp;Tech Stack
