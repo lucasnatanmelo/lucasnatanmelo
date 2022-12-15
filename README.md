@@ -16,10 +16,10 @@ I have personal experience with projects using JavaScript, Typescript, NodeJS, R
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react)&nbsp;
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social);
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=282a36&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/-c++-05122A?style=for-the-badge&color=282a36&logo=c%2B%2B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&color=282a36&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&color=282a36&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=282a36&logo=git)&nbsp;
