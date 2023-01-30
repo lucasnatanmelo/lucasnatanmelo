@@ -2,15 +2,13 @@
 
 ### 🙏Thanks for visiting my profile!
 
-- 🏁 <b>Front-end Developer</b> 
+- 🏁 <b>Software Developer</b> 
 - 🎓 Graduating in Systems Analysis and Development
 - 🎓 Graduated in Civil Engineering
 
 ### About me
 
-Front-End developer focused in ReactJS. 
-<br/>
-I have personal experience with projects using JavaScript, Typescript, NodeJS, ReactJS and C++.
+Personal and professional experiences with projects using JavaScript, Typescript, NodeJS, ReactJS, Java and C++.
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -19,6 +17,7 @@ I have personal experience with projects using JavaScript, Typescript, NodeJS, R
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=282a36&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=282a36&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-05122A?style=for-the-badge&color=282a36&logo=c%2B%2B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&color=282a36&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&color=282a36&logoColor=1572B6)&nbsp;
