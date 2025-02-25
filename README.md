@@ -18,6 +18,7 @@ Personal and professional experiences with projects using JavaScript, Typescript
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=282a36&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=282a36&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=282a36&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-05122A?style=for-the-badge&color=282a36&logo=c%2B%2B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&color=282a36&logo=HTML5)&nbsp;
