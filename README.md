@@ -3,8 +3,9 @@
 ### 🙏Thanks for visiting my profile!
 
 - 🏁 <b>Software Developer</b> 
-- 🎓 Graduating in Systems Analysis and Development
-- 🎓 Graduated in Civil Engineering
+- 🎓 Post Graduated in Software Engineering
+- 🎓 Graduated in Computer Engineering
+- 🎓 Graduated in Systems Analysis and Development
 
 ### About me
 
@@ -37,6 +38,6 @@ Personal and professional experiences with projects using JavaScript, Typescript
 <!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnatanmelo&show_icons=true&theme=dark" alt="lucasnatanmelo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnatanmelo&layout=compact&theme=dark" alt="lucasnatanmelo's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnatanmelo&show_icons=true&theme=dark" alt="lucasnatanmelo's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnatanmelo&layout=compact&langs_count=7&theme=dark" alt="lucasnatanmelo's most languages"/>
 </p>
